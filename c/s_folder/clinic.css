@@ -1,0 +1,45 @@
+﻿body{
+	background : #FCFCFC url('happiness.jpg') !important;
+	background-size : cover !important;
+	background-repeat : no-repeat !important;
+	background-position : center center !important;
+	background-attachment : fixed !important;
+}
+/* .clinic_main{
+	position : relative !important;
+} */
+/* .bg_image_holder{
+	position : absolute;
+	background : url('happiness.jpg');
+	background-repeat : no-repeat;
+	background-attachment : fixed;
+	background-position : center center;
+	z-index : 0;
+} */
+.clinic_seg_border_off{
+	border : none !important;
+	background : none !important;
+	box-shadow : none !important;
+}
+.clinic_auto_height{
+	height : auto !important;
+}
+.remove_background{
+	background : none !important;
+}
+.image_min_height{
+	min-height : 218px !important;
+	background : white !important;
+}
+.card_resp_height{
+	height : 350px !important;
+	padding-left : 1%;
+	padding-right : 1%;
+	padding-top : 1%;
+}
+.clinic_white{
+	background : white !important;
+}
+.clinic_slider_height{
+	height : 400px !important;
+}
